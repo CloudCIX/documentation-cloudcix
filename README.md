@@ -16,4 +16,5 @@ CloudCIX is an open source Cloud platform available on the Apache 2.0 licence. S
     *  CloudCIX Limited offers CloudCIX as a multi-region Public Cloud platform.
     *  CloudCIX Limited are looking for Data Centre owners interested in operating a CloudCIX region on a franchise basis. 
 
+#  Deploment Process
 ![Deployment Process](/static/images/deployment_process.png)
