@@ -26,8 +26,8 @@ There are three functional elements to CloudCIX...
 *  Each Cloud instance has a central orchestration platform (COP) to implement its UI and API.
 *  Each Cloud has one or more Regions that contain the physical hosts used to provide the Cloud services. A software system called Robot.
 These functional elements can be represented by this diagram.
-![Deployment Process](/static/images/deployment_process.png)
+![Architectural Overview](/static/images/architectural_overview.png)
 
 ##  SRXPod
 The SRXPod is the unit of physical infrastructure in CloudCIX. Networking in CloudCIX is based on the Juniper Networks SRX platform. The Juniper SRX is a Router-Firewall appliance. Each SRXPod has an SRX (or an SRX pair in HA) to implement its security and networking functionality.
-![Architectural Overview](/static/images/architectural_overview.png)
+
