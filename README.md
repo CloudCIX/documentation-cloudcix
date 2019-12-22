@@ -24,8 +24,10 @@ CloudCIX is an open source Cloud platform available on the Apache 2.0 licence. S
 There are three functional elements to CloudCIX...
 *  A provisioning and monitoring (PAM) system manages one or more Clouds. A Cloud can only be managed by one PAM.
 *  Each Cloud instance has a central orchestration platform (COP) to implement its UI and API.
-*  Each Cloud has one or more Regions that contain the physical hosts used to provide the Cloud services. A software system called Robot.
+*  Each Cloud has one or more Regions that contain the physical hosts used to provide the Cloud services. A software system called Robot provisions the user requested infrastructure.
+
 These functional elements can be represented by this diagram.
+
 ![Architectural Overview](/static/images/architectural_overview.png)
 
 ##  SRXPod
