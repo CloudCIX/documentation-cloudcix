@@ -10,4 +10,4 @@ Documentation for designing, building and maintaining a CloudCIX Cloud.
 *  Paid for hosting of Private Cloud is also available. Contact sales@cloudcix.com.
 *  CloudCIX Limited, and a number of Franchise partners, offer CloudCIX as a multi-region Public Cloud platform. Data Centre owners are invited to apply for a CloudCIX franchise is their region. 
 
-![Commercial Models](/static/images/commercial_models.png)
+![Commercial Models](/static/images/deployment_process.png)
