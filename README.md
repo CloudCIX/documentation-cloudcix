@@ -30,6 +30,9 @@ These functional elements can be represented by this diagram.
 
 ![Architectural Overview](/static/images/architectural_overview.png)
 
-##  SRXPod
-The SRXPod is the unit of physical infrastructure in CloudCIX. Networking in CloudCIX is based on the Juniper Networks SRX platform. The Juniper SRX is a Router-Firewall appliance. Each SRXPod has an SRX (or an SRX pair in HA) to implement its security and networking functionality.
+##  Pod
+A Pod is the unit of physical infrastructure in CloudCIX. A Pod can carry out one of the following three functions.
+*  Provisioning and Monitoring (PAM)
+*  Central Orchestration Platform (COP)
+*  Region
 
