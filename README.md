@@ -14,7 +14,7 @@ CloudCIX is an open source Cloud platform available on the Apache 2.0 licence. S
     *  participation in the CloudCIX RoboSOC automated security system
 *  Public Cloud
     *  CloudCIX Limited offers CloudCIX as a multi-region Public Cloud platform
-    *  CloudCIX Limited are looking for Data Centre owners interested in operating a CloudCIX region on a franchise basis
+    *  CloudCIX Limited is looking for Data Centre owners interested in operating a CloudCIX region on a franchise basis
 
 #  Deploment Process
 ![Deployment Process](/static/images/deployment_process.png)
@@ -31,8 +31,9 @@ These functional elements can be represented by this diagram.
 ![Architectural Overview](/static/images/architectural_overview.png)
 
 ##  Pod
-A Pod is the unit of physical infrastructure in CloudCIX. A Pod can carry out one of the following three functions.
+A Pod is the unit of physical infrastructure in CloudCIX. A Pod can carry out one or more of the following three functions.
 *  Provisioning and Monitoring (PAM)
 *  Central Orchestration Platform (COP)
 *  Region
+
 
